@@ -1,4 +1,3 @@
 # hello-world
 
-Opa, tudo bem?
-Eu sou Pedro, me divirto com tecnologia, principalmente na área de IA e pretendo trabalhar nessa área.
+Olá, sou Pedro. Sou só um cara que quer ser um cientista de dados.
